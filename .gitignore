@@ -1,0 +1,22 @@
+#### La Segunda gitignore for DP10_Automation
+
+#librerias
+.venv/
+
+#pycache
+**/__pycache__
+
+#idea
+.idea/
+
+#logs
+**/*.log
+
+#screenshots
+screenshots/*
+
+#Chromedriver utilizado para windows
+chromedriver.exe
+
+#Carpeta helpers
+helpers/
